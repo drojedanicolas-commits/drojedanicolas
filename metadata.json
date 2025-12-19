@@ -1,0 +1,8 @@
+
+{
+  "name": "Secretaria Virtual Médica",
+  "description": "Asistente inteligente para traumatología y posturología que gestiona turnos, responde consultas y gestiona costos de forma automatizada.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
